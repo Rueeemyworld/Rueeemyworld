@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rue 👋
+AI-focused Product & Research Generalist | Turning user insights into intelligent products.
 
-<!--
-**Rueeemyworld/Rueeemyworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring:
+- AI Product Management | Business Development | User Research
+- Automation & LLM applications (LangChain, GPT API, Google Apps Script)
+- Data-driven decision making & metric design
 
-Here are some ideas to get you started:
+📂 Featured Projects
+| Project | Description | Tags |
+|----------|--------------|------|
+| [Home Care Workflow Automation](https://github.com/ruechen/homecare-automation) | Automated client intake workflow with Google Apps Script. | `Automation` `Ops` |
+| [Gen Z Energy Drink Research](https://github.com/ruechen/campbells-user-research) | Mixed-method user study defining product direction. | `User Research` |
+| [AI Assistant Prototype](https://github.com/ruechen/ai-metric-tree) | Built a simple AI assistant using OpenAI API. | `AI Product` `LLM` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect**
+- [LinkedIn](your-link)
+- Email: your.email@gmail.com
+
